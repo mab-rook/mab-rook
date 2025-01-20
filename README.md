@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Hello, this is Alaka Mubarak Opeyemi I'm a passionate Fullstack Developer living in Ibadan, Nigeria. I've made a lot of projects with multiple web technologies. I love being part of a solution driven tech community . I love to teach others about web development. I love open source development and I build things on my GitHub profile (here). I am a personate developer using JavaScript and Node.Js for back-end development and engineering .
+Hello, this is Alaka Mubarak Opeyemi I'm a passionate Fullstack Developer living in Ibadan, Nigeria. I've done a lot of projects with multiple web technologies. I love being part of a solution-driven tech community. I love to teach others about web development. I love open-source development and I build things on my GitHub profile (here). I am a personal developer using JavaScript and Node.Js for back-end development and engineering.
 
 * 🌍  I'm based in Oyo State, Nigeria.
 * 🖥️  See my portfolio at [My Portfolio](http://mab-rook.github.io/portfolio/)
 * ✉️  You can contact me at [mubarakmahmunalaka@gmail.com](mailto:mubarakmahmunalaka@gmail.com)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on Any Full stack project involving Node.js
+* 🤝  I'm open to collaborating on any stack project involving Node.js
 
 ### Skills
 
